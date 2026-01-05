@@ -1,2 +1,2 @@
 Description
-This project is a REST api for a system that organize tournaments, of some game for example, and games in those tournaments.
+This project provides a REST API for a tournament management system, responsible for organizing tournaments and managing the games that belong to each tournament.
